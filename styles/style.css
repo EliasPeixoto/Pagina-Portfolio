@@ -30,7 +30,7 @@ body
 {
     color:var(--link-color);
     font-family: var(--secondary-font);
-    font-size:18px;
+    font-size: 1.125rem;
     font-weight: 400px;
 }
 .mainContainer
